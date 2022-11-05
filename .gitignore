@@ -1,0 +1,6 @@
+.env/
+*.hcl
+.terraform/
+secrets.sh
+userconfig*
+terraform.*
