@@ -1,4 +1,4 @@
-JFrog UI is available at [http://84.201.156.71:8082](http://84.201.156.71:8082)  
+JFrog UI is available at [http://84.201.156.71:8082](http://84.201.156.71:8082). Setup of PyPi repository with Artifactory was done with the help of [this](https://jfrog.com/screencast/setting-up-pypi-repository-in-minutes-with-jfrog-artifactory/) video.  
 
 To install a package from pypi to a local virtual environment use the following command:
 ```
