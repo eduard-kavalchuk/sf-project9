@@ -8,7 +8,7 @@ As a result the package will first be added to an Articactory repository and the
 Repository for publishing own packages is located [here](http://84.201.156.71:8082/ui/repos/tree/General/pypi-local). To deploy a python egg to Artifactory, run the following command:
 ```
 python3 setup.py sdist upload -r local
-``
+```
 To deploy a python wheel to Artifactory, run the following command:
 ```
 python3 setup.py bdist_wheel upload -r local
